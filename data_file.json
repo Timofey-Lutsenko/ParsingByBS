@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Scrapy | A Fast and Powerful Scraping and Web Crawling ...",
+        "url": "https://scrapy.org",
+        "desc": "pip install scrapy cat > myspider.py <<EOF import scrapy class BlogSpider(scrapy.Spider): name = 'blogspider' start_urls = ['https://blog.scrapinghub.com'] def ..."
+    },
+    {
+        "name": "Scrapy Tutorial — Scrapy 2.4.0 documentation - Scrapy Docs",
+        "url": "https://docs.scrapy.org › latest › intro",
+        "desc": "Creating a new Scrapy project. Writing a spider to crawl a site and extract data. Exporting the scraped data using the command line. Changing ..."
+    },
+    {
+        "name": "Scrapy 2.4 documentation — Scrapy 2.4.0 documentation",
+        "url": "https://docs.scrapy.org › latest",
+        "desc": "Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a ..."
+    },
+    {
+        "name": "Scrapy: собираем данные и сохраняем в базу данных / Хабр",
+        "url": "https://habr.com › post",
+        "desc": "28 авг. 2016 г. — Решение. Для решения задачи я использовал Python 2.7, Scrapy 1.1 Sqlalchemy 1, Sqlite. Установил все как описано в документации. В ..."
+    },
+    {
+        "name": "Как создать парсер на python c помощью Scrapy. Пошагово ...",
+        "url": "https://pythonru.com › Библиотеки",
+        "desc": "14 мар. 2020 г. — Scrapy использует Spiders — автономных сканеров с определенным набором инструкций. С помощью фреймворка легко разработать ..."
+    },
+    {
+        "name": "Парсинг сайта используя Scrapy | Scrapy примеры кода",
+        "url": "https://python-scripts.com › scrapy-example",
+        "desc": "Начальная установка Scrapy для Python. Скрапинг онлайн магазина через фреймворк Python. Примеры кода для анализа веб страницы через Python."
+    },
+    {
+        "name": "Scrapy — Википедия",
+        "url": "https://ru.wikipedia.org › wiki › Scrapy",
+        "desc": "Scrapy (читается как \"скрэй-пай\") – это бесплатный фреймворк для веб-краулинга находящийся в открытом доступе, который написан на языке ..."
+    },
+    {
+        "name": "Пишем простой парсер на Scrapy | Блог python программиста",
+        "url": "https://pycoder.ru › make-simple-spider-scrapy",
+        "desc": "3 дек. 2017 г. — 1 # python 3 2 import scrapy 3 from urllib.parse import urljoin 4 5 6 class PycoderSpider(scrapy.Spider): 7 name = \"pycoder\" 8 start_urls = [ 9 ..."
+    },
+    {
+        "name": "Scrapy - Краткое руководство - CoderLessons.com",
+        "url": "https://coderlessons.com › scrapy-kratkoe-rukovodstvo",
+        "desc": "22 авг. 2018 г. — Scrapy имеет встроенную поддержку для выбора и извлечения данных из источников с помощью выражений XPath или CSS. Scrapy на ..."
+    }
+]
